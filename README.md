@@ -1,7 +1,7 @@
 # About Me:
 🎓 Currently a second-year Master's student in Software Engineering Systems at Northeastern University
 
-💻 Experienced in:<br>Backend Development using Java, Spring Boot, MySQL, Git, SVN, and other DBs.<br>Data Engineering using Python, Spark, Hadoop, Apache Airflow, Kafka, Databricks (Data Analysis), AWS, PowerBI.<br><br>🌱 Currently upskilling in Machine Learning, AI, and Cloud technologies.
+💻 Experienced in:<br>Backend Development using Java, Spring Boot, MySQL, Git, SVN, and other DBs.<br>Data Engineering using Python, Spark, Hadoop, Apache Airflow, Kafka, Databricks (Data Analysis), AWS, PowerBI.<br><br>🌱 Machine Learning, AI, and Cloud technologies.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sachin-vishaul/) 
